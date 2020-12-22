@@ -1,5 +1,5 @@
 {
-  "name": "@eliteswap/token-lists",
+  "name": "@cryptocode99/token-lists",
   "author": "",
   "description": "📚 The Token Lists specification",
   "version": "1.0.2",
@@ -14,11 +14,11 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "git+https://github.com/EthereumEliteswap/token-lists.git",
+    "url": "git+https://github.com/cryptocode99/token-lists.git",
     "type": "git"
   },
   "keywords": [
-    "eliteswap",
+    "cryptocode99",
     "token",
     "list"
   ],
@@ -50,9 +50,9 @@
     "typescript": "^3.9.5"
   },
   "bugs": {
-    "url": "https://github.com/EthereumEliteswap/token-lists/issues"
+    "url": "https://github.com/cryptocode99/token-lists/issues"
   },
-  "homepage": "https://github.com/EthereumEliteswap/token-lists#readme",
+  "homepage": "https://github.com/cryptocode99/token-lists#readme",
   "directories": {
     "test": "test"
   },

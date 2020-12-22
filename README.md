@@ -1,7 +1,7 @@
-# @eliteswap/token-lists
+# @cryptocode99/token-lists
 
-[![Tests](https://github.com/EthereumEliteswap/token-lists/workflows/Tests/badge.svg)](https://github.com/EthereumEliteswap/token-lists/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@eliteswap/token-lists)](https://unpkg.com/@eliteswap/token-lists@latest/)
+[![Tests](https://github.com/cryptocode99/token-lists/workflows/Tests/badge.svg)](https://github.com/cryptocode99/token-lists/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@cryptocode99/token-lists)](https://unpkg.com/@cryptocode99/token-lists@latest/)
 
 This package includes a JSON schema for token lists, and TypeScript utilities for working with token lists.
 
@@ -51,7 +51,7 @@ npm package to take advantage of the JSON schema for validation and the TypeScri
 Otherwise, you are simply working with JSON. All the usual tools apply, e.g.:
 
 ```typescript
-import { TokenList, schema } from '@eliteswap/token-lists'
+import { TokenList, schema } from '@cryptocode99/token-lists'
 
 // generate your token list however you like.
 const myList: TokenList = generateMyTokenList();
