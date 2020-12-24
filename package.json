@@ -2,7 +2,7 @@
   "name": "@cryptocode99/token-lists",
   "author": "",
   "description": "📚 The Token Lists specification",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "ISC",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
