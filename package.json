@@ -2,7 +2,7 @@
   "name": "@cryptocode99/token-lists",
   "author": "",
   "description": "📚 The Token Lists specification",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "license": "ISC",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -16,9 +16,6 @@
   "repository": {
     "url": "git+https://github.com/cryptocode99/token-lists.git",
     "type": "git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "cryptocode99",
