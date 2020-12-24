@@ -17,6 +17,9 @@
     "url": "git+https://github.com/cryptocode99/token-lists.git",
     "type": "git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "keywords": [
     "cryptocode99",
     "token",
