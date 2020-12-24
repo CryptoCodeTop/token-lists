@@ -22,9 +22,6 @@
     "token",
     "list"
   ],
-  "publishConfig": {
-  "registry":"https://npm.pkg.github.com/Cryptocode99"
-},
   "scripts": {
     "start": "tsdx watch",
     "build": "tsdx build",
